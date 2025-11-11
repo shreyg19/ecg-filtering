@@ -1,5 +1,5 @@
 # ECG Signal Filtering and Analysis
-Author(s): Vinay Katkar, Karna Jadhav, Shrey Gudhecha
+Author(s): Vinay Katkar, Karna Jadhav, Shrey Gundecha
 Guide: Dr. Shanti Syami
 
 Files:
